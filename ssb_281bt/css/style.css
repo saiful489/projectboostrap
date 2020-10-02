@@ -1,0 +1,51 @@
+
+.upHeader{
+	min-height: 35px;
+	background: tomato;
+}
+.upperHeaderNav {
+	margin-top: 10px;
+	color: white;
+}
+.upperHeaderNav li a{
+	color: white;
+	text-decoration: none;
+}
+.intro{
+	min-height: 300px;
+	background: tomato;
+	margin-top: 50px;
+	padding: 50px;
+}
+.mTop{
+	margin-top: 30px;
+}
+
+
+.mTop{
+	margin-top: 30px;
+}
+.slide-contend h2{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	color: #FDB913;
+}
+.slide-contend p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	color: #FDB913;
+}
+.jumbotron-section{
+	background: #FDB913;
+}
+.slide{
+	padding: 10px;
+}
+.alert-red{
+	color: #ff0729;
+    background-color: #fffefc;
+    border-color: #f90808;
+}
+.red{
+	background: red;
+}
